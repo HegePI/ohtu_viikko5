@@ -1,0 +1,8 @@
+*/.gradle
+*/build
+/LaskinFX8/.nb-gradle/
+.vscode
+*/bin
+*/.classpath
+*/.project
+*/.settings
